@@ -1,0 +1,1 @@
+INSERT INTO todos(name, completed) VALUES ('Do some work', FALSE);

@@ -3,7 +3,7 @@ package com.vatit.todo.entities;
 import javax.persistence.*;
 
 @Entity
-@Table( name = "todos")
+@Table( name = "TODOS")
 public class ToDos {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
